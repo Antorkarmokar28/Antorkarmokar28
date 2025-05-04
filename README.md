@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Antor Karmaker — A Passionate MERN Stack Web Developer
 
 <!--
 **Antorkarmokar28/Antorkarmokar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
